@@ -1,0 +1,18 @@
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\bin\Debug\Справочник ВУЗов.exe.config
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\bin\Debug\Справочник ВУЗов.exe
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\bin\Debug\Справочник ВУЗов.pdb
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник ВУЗов.csprojAssemblyReference.cache
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник_ВУЗов.Вузы.resources
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник_ВУЗов.Главная.resources
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник_ВУЗов.Properties.Resources.resources
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник_ВУЗов.Города.resources
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник ВУЗов.csproj.GenerateResource.cache
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник ВУЗов.csproj.CoreCompileInputs.cache
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник ВУЗов.exe
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник ВУЗов.pdb
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник_ВУЗов.авторизация.resources
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\bin\Debug\ru\Справочник ВУЗов.resources.dll
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник_ВУЗов.Главная.ru.resources
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\ru\Справочник ВУЗов.resources.dll
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\obj\Debug\Справочник_ВУЗов.Справочники.resources
+B:\Project c#\Справочник ВУЗов\Справочник ВУЗов\bin\Debug\Database2.accdb
